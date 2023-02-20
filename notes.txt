@@ -1,0 +1,6 @@
+
+=>Anonymous function is nothing but we dont need to pass
+ the values in the function
+  =>iife stands for intermediate invoking function 
+expression when a function is defined 
+=> it will execute immediately
